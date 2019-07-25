@@ -1,7 +1,7 @@
 # PyEmailParsers
 Email parsers written in Python to extract useful information
 
-## Swiggy Email Parser:
+## Swiggy Email Parser
 
 Extracts the grand total amount spent in the given date range.
 Requires email id and password. 
